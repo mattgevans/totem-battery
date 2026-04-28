@@ -1,7 +1,8 @@
 # totem-battery
 
 Reads and displays battery levels for both halves of the [Totem](https://github.com/GEIGEIGEIST/TOTEM) split keyboard over Bluetooth on macOS.
-<img width="584" height="34" alt="image" src="https://github.com/user-attachments/assets/51be34d0-ca4a-482f-bd6b-8e41fb121a05" />
+<img width="155" height="33" alt="image" src="https://github.com/user-attachments/assets/7c5d46f5-e605-44d0-9e59-ebcb386260ad" />
+
 
 
 ## Requirements
